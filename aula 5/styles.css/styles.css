@@ -1,0 +1,22 @@
+header{
+    position: fixed;
+    height: 50px;
+    
+}
+
+li{
+display: inline-block;
+justify-content: space-between;
+
+}
+
+main{
+    margin-top: 10px;
+}
+
+section{
+    height: 300px;
+ 
+}
+
+
